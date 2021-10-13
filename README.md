@@ -1,7 +1,4 @@
 # react网址导航
-- [Dan Abramov](https://overreacted.io/)
-- [Dan Abramov(my-decade-in-review)](https://overreacted.io/zh-hans/my-decade-in-review/)
-- [Dan Abramov(things-i-dont-know-as-of-2018)](https://overreacted.io/zh-hans/things-i-dont-know-as-of-2018/)
 - [react startup](https://react.docschina.org/docs/getting-started.html)
 - [react-router](http://react-guide.github.io/react-router-cn/)
 - [redux](https://www.redux.org.cn/)
@@ -15,3 +12,8 @@
 
 # react-native
 - [react-native](https://reactnative.cn/)
+
+# Dan Abramov
+- [Dan Abramov](https://overreacted.io/)
+- [Dan Abramov(my-decade-in-review)](https://overreacted.io/my-decade-in-review/)
+- [Dan Abramov(things-i-dont-know-as-of-2018)](https://overreacted.io/things-i-dont-know-as-of-2018/)
