@@ -13,6 +13,11 @@
 # react-native
 - [react-native](https://reactnative.cn/)
 
+
+# awesome
+- [awesome-react](https://github.com/enaqx/awesome-react)
+- [awesome-react-native](https://github.com/jondot/awesome-react-native)
+
 # Dan Abramov
 - [Dan Abramov](https://overreacted.io/)
 - [Dan Abramov(my-decade-in-review)](https://overreacted.io/my-decade-in-review/)
