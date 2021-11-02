@@ -18,6 +18,7 @@
 # awesome
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [awesome-react-native](https://github.com/jondot/awesome-react-native)
+- [styled-components](https://github.com/styled-components/styled-components)
 
 # Dan Abramov
 - [Dan Abramov](https://overreacted.io/)
