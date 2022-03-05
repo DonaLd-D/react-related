@@ -2,6 +2,7 @@
 - [react startup](https://react.docschina.org/docs/getting-started.html)
 - [react-router](http://react-guide.github.io/react-router-cn/)
 - [redux](https://www.redux.org.cn/)
+- [mobx](https://cn.mobx.js.org/)
 - [create-react-app](https://create-react-app.dev/docs/getting-started)
 - [umijs](https://v2.umijs.org/zh/guide/#%E7%89%B9%E6%80%A7)
 
