@@ -6,6 +6,7 @@
 - [mobx](https://cn.mobx.js.org/)
 - [create-react-app](https://create-react-app.dev/docs/getting-started)
 - [umijs](https://v2.umijs.org/zh/guide/#%E7%89%B9%E6%80%A7)
+- [dvajs](https://dvajs.com/)
 
 # UI
 - [ant design](https://mobile.ant.design/index-cn)
@@ -15,6 +16,7 @@
 
 # react-native
 - [react-native](https://reactnative.cn/)
+- [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native)
 
 
 # awesome
